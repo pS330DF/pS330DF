@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Study-Made Web Project](Currently unavailable)
 
-- 🌱 I’m currently learning **Hacking on Linux, Backends**
+- 🌱 I’m currently learning **Hacking on Linux, and Backend Languages**
 
 - 💬 Ask me about **Python or JS**
 
