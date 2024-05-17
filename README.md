@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Flydra</h1>
 <h3 align="center">A junior developer currently learning</h3>
 
-- 🔭 I’m currently working on [Study-Made Web Project](Currently unavailable)
+- 🔭 I’m working on [Study-Made Web Project](Currently unavailable)
 
 - 🌱 I’m currently learning **Hacking on Linux, and Backend Languages**
 
