@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Hacking on Linux, and Backend Languages**
 
-- 💬 Ask me about **Python or JS**
+- 💬 Ask me about **C++, C#**
 
 - 📫 How to reach me **flydraDevmail@gmail.com**
 
